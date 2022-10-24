@@ -1,2 +1,3 @@
 # tailwind_alpine_templates
-Template For Tall Stack Devs
+Html Templates And Components For Tall Stack Developers & Designers
+
